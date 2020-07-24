@@ -1,7 +1,7 @@
 {
   "name": "kishore-website",
   "version": "0.1.0",
-  "homepage": "http://iamkish0re.github.io/iamkish0re.github.io",
+  "homepage": "http://iamkish0re.github.io/kishore-website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

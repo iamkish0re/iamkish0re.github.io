@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iamkish0re.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/iamkish0re.github.io/static/js/main.fcba24a2.chunk.js",
+    "main.js.map": "/iamkish0re.github.io/static/js/main.fcba24a2.chunk.js.map",
+    "runtime-main.js": "/iamkish0re.github.io/static/js/runtime-main.0c4770e1.js",
+    "runtime-main.js.map": "/iamkish0re.github.io/static/js/runtime-main.0c4770e1.js.map",
+    "static/js/2.c662c429.chunk.js": "/iamkish0re.github.io/static/js/2.c662c429.chunk.js",
+    "static/js/2.c662c429.chunk.js.map": "/iamkish0re.github.io/static/js/2.c662c429.chunk.js.map",
+    "index.html": "/iamkish0re.github.io/index.html",
+    "precache-manifest.ce5495282c69deec72df0e3bbad93520.js": "/iamkish0re.github.io/precache-manifest.ce5495282c69deec72df0e3bbad93520.js",
+    "service-worker.js": "/iamkish0re.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/iamkish0re.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c662c429.chunk.js.LICENSE.txt": "/iamkish0re.github.io/static/js/2.c662c429.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/iamkish0re.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c4770e1.js",
+    "static/js/2.c662c429.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fcba24a2.chunk.js"
+  ]
+}
